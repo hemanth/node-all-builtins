@@ -1,5 +1,5 @@
 > Require all node builtins to a single namespace.
-Infulenced by [https://github.com/stephenplusplus/modmod](modmod)
+Infulenced by [modmod](https://github.com/stephenplusplus/modmod)
 
 # Install 
 
